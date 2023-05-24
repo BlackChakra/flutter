@@ -19,7 +19,7 @@ class _ApplicationState extends State<Application> {
           child: new ListView(
         children: <Widget>[
           new UserAccountsDrawerHeader(
-            accountName: new Text('Mayuresh Wankhede'),
+            accountName: new Text('Black Chakra'),
             accountEmail: new Text('dummy@email.com'),
             currentAccountPicture: new CircleAvatar(
               backgroundColor: Colors.black26,
